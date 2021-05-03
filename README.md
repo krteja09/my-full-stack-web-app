@@ -10,7 +10,7 @@ Run a container
 ### `docker run --detach --name full-stack -p 3000:8080 -d web-api`
 
 Run the app
-open `http://localhost:3000`
+### open `http://localhost:3000`
 
 
 Remove container
