@@ -9,6 +9,9 @@ docker build -t web-api .
 # run a container
 docker run --detach --name full-stack -p 3000:8080 -d web-api
 
+# Run the app
+open http://localhost:3000
+
 
 # remove container
 docker container stop full-stack
