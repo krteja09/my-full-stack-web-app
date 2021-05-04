@@ -2,6 +2,7 @@
 Use a single Dockerfile to spin up a ReactJS client, and a Go server.
 
 # Usage
+`cd my-full-stack-web-app-main`
 
 Create the image
 ### `docker build -t web-api .` 
